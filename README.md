@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harshaoffl31@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/harshaRedE31/HarshavardhanReddyP_Resume](https://github.com/harshaRedE31/HarshavardhanReddyP_Resume)
+- 📄 Know about my experiences [https://github.com/harshaRedE31/HarshavardhanReddyP_Resume/blob/main/HarshavardhanReddyP_ResumeV1.pdf](https://github.com/harshaRedE31/HarshavardhanReddyP_Resume/blob/main/HarshavardhanReddyP_ResumeV1.pdf)
 
 - ⚡ Fun fact **“The cloud isn’t actually a cloud—it’s millions of servers in giant data centers around the world. In fact, if the cloud were a country, it would rank among the top energy consumers globally.”**
 
