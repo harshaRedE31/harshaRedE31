@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshavardhan Reddy P</h1>
 <h3 align="center">A passionate Cloud ,Devops, & Frontend Developer from India</h3>
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **MLOps, AIOps**
 
 - 👯 I’m looking to collaborate on **Cloud/DevOps automation projects using Terraform, Jenkins, Docker & Kubernetes**
 
